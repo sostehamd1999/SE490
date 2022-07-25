@@ -35,6 +35,8 @@ UPDATE doctor
 SET name = N'Úַָֿבבו'
 WHERE Id=3;
 
+/*ihuyfdufkuglih/*
+
 
 
 SELECT * FROM doctor;
